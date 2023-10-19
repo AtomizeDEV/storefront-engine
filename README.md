@@ -1,4 +1,4 @@
-# @fleetbase/storefront-engine
+# @atomizedev/storefront-engine
 
 [Short description of the addon.]
 
@@ -13,7 +13,7 @@
 ## Installation
 
 ```
-ember install @fleetbase/storefront-engine
+ember install @atomizedev/storefront-engine
 ```
 
 
